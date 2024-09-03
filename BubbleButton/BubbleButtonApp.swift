@@ -2,7 +2,7 @@
 //  BubbleButtonApp.swift
 //  BubbleButton
 //
-//  Created by Алиса Третьякова on 02.09.2024.
+//  Created by Alisa Serhiienko on 02.09.2024.
 //
 
 import SwiftUI
